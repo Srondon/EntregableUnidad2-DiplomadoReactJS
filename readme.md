@@ -1,1 +1,4 @@
-# Santiago Rondón Galvis, CC: 1216730447
+
+# 2do entregable del Diplomado en React JS
+# 2do entregable del Diplomado en React JS
+
